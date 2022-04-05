@@ -1,5 +1,4 @@
-Integrantes - Reto #1:
+# INTEGRANTES
 
-Milton Andrés Mesa 202022496 - ma.mesam1@uniandes.edu.co
-
-Santiago Moncada Mejía 202112143 - s.moncadam@uniandes.edu.co
+* Requerimiento 2: Milton Andrés Mesa
+* Requerimiento 3: Santiago Moncada Mejía

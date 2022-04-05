@@ -1,3 +1,5 @@
 # INTEGRANTES
 <!-- aqui van los nombres de los integrantes -->
-TODO
+
+* Requerimiento 2: Abel Arismendy
+* Requerimiento 3: Pedro López
