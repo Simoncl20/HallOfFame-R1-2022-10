@@ -136,6 +136,7 @@ dmypy.json
 #Python Cache
 #Data
 *.csv
+*.zip
 !Data/Spotify/spotify-albums-utf8-small.csv
 !Data/Spotify/spotify-artists-utf8-small.csv
 !Data/Spotify/spotify-tracks-utf8-small.csv
